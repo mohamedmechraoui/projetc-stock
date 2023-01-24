@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1674316913 source:c:\users\olfab\desktop\mech\projet stock\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
